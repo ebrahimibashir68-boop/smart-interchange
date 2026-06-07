@@ -57,6 +57,7 @@ function Nav() {
           <a href="#how" className="text-sm text-muted-foreground transition hover:text-foreground">How it works</a>
           <a href="#features" className="text-sm text-muted-foreground transition hover:text-foreground">Features</a>
           <a href="#dashboard" className="text-sm text-muted-foreground transition hover:text-foreground">Dashboard</a>
+          <a href="#pi" className="text-sm text-muted-foreground transition hover:text-foreground">Pay with Pi</a>
         </div>
         <a
           href="#cta"
