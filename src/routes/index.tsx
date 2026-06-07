@@ -1,6 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import heroImg from "@/assets/hero.jpg";
 import networkImg from "@/assets/network.jpg";
+import { PiPayment } from "@/components/PiPayment";
 
 export const Route = createFileRoute("/")({
   head: () => ({
