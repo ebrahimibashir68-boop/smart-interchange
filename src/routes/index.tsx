@@ -35,6 +35,7 @@ function Landing() {
         <Dashboard />
         <Features />
         <Network />
+        <PiPayment />
         <CTA />
       </main>
       <Footer />
